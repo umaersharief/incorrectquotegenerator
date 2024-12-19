@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [12/19/2024]
+**Effective Date:** 12/19/2024
 
 ## 1. Introduction
 This Privacy Policy explains how we collect, use, and protect your information when you use the Incorrect Quote Generator app ("the App"). By using the App, you agree to the terms of this policy.
@@ -27,7 +27,7 @@ Since the App does not collect data, there are no stored records to protect. You
 We may update this Privacy Policy from time to time. Any changes will be posted within the App.
 
 ## 9. Contact Us
-If you have any questions about this Privacy Policy, please contact us at [juiceduck28@gmail.com].
+If you have any questions about this Privacy Policy, please contact us at juiceduck28@gmail.com.
 
 By using the App, you acknowledge that you have read and understood this Privacy Policy.
 
